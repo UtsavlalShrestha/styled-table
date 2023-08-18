@@ -1,0 +1,50 @@
+/* *{
+    background-image: url('../day1/images/pic1.avif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} */
+
+#asa{
+    color: #afc905;
+}
+
+
+.ll{
+    background-color: darkgreen;
+    color: white;
+}
+.center{
+    
+    margin: auto;
+    width: 150px;
+}
+
+.border{
+    /* display: inline-block; */
+    border: 22px dashed red;
+    border-radius: 12px;
+    height: 180px;
+    width:  690px;
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+.border p{
+    font-size: 29px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* .border:hover{
+    height: 400px;
+    border-color: aqua;
+} */
+a{
+    text-decoration:line-through;
+    font-size: xx-large;
+}
+ul{
+    list-style-type: square;
+}
